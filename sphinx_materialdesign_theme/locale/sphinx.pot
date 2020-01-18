@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-18 02:00+0100\n"
+"POT-Creation-Date: 2020-01-18 11:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,7 +42,6 @@ msgid ""
 msgstr ""
 
 #: sphinx_materialdesign_theme/globaltoc.html:3
-#: sphinx_materialdesign_theme/localtoc.html:4
 msgid "Table Of Contents"
 msgstr ""
 
@@ -52,6 +51,10 @@ msgstr ""
 
 #: sphinx_materialdesign_theme/header_sourcelink.html:8
 msgid "Show Source"
+msgstr ""
+
+#: sphinx_materialdesign_theme/localtoc.html:4
+msgid "Table Of Page-Contents"
 msgstr ""
 
 #: sphinx_materialdesign_theme/search.html:2
