@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-15 19:11+0100\n"
+"POT-Creation-Date: 2020-01-18 02:00+0100\n"
 "PO-Revision-Date: 2020-01-15 19:00+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -25,7 +25,7 @@ msgstr "&copy; <a href=\"%(path)s\">Urheberschaft</a> %(copyright)s."
 
 #: sphinx_materialdesign_theme/footer.html:15
 #, python-format
-msgid "&copy; Urheberschaft %(copyright)s."
+msgid "&copy; Copyright %(copyright)s."
 msgstr ""
 
 #: sphinx_materialdesign_theme/footer.html:19
